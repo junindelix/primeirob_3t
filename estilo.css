@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.calculadora {
+    background: #453e868c;
+    color: rgb(0, 0, 0);
+    width: 210px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #0d0f36;
+    
+}
+
+#sptotalgeral {
+    background: #0d0f36;
+    color: #cad9ca;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.calculadora input {
+    padding: 3px;
+    color:#0d0f36;
+    border-radius: 5px;
+}
+
+.calculadora button {
+    padding: 5px;
+    margin-top: 10px;
+    background: #0d0f36;
+    color: rgb(245, 245, 245);
+    border-radius: 15px;
+
+}
+
+.calcESG {
+    background: #b1ae03;
+    color: rgb(0, 0, 0);
+    width: 210px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #0d0f36;
+}
+
+.resul {
+    background: #6ac5cb;
+    color: rgb(0, 0, 0);
+    width: 210px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #0d0f36;  
+}
